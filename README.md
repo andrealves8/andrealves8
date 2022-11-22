@@ -1,4 +1,4 @@
-## Olá, eu sou André Alves, programador e estudante do ecossistema Java!
+## Olá, eu sou André Alves, desenvolvedor Java | SQL
 <div align="center">
   <a href="https://github.com/andrealves8">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrealves8&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
