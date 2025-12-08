@@ -1,11 +1,9 @@
 ## Olá, eu sou André Alves 👋
-**Desenvolvedor Java | SQL | Back-End | Cloud**
+**Java Developer | SQL & Database Management | Cloud Technologies | Technical Support & System Troubleshooting**
 
 <div align="center">
   <!-- GitHub Stats -->
-  <a href="https://github.com/andrealves8">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrealves8&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
+
 </div>
 
 <!-- Tecnologias -->
@@ -13,7 +11,8 @@
   <img alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img alt="Spring Boot" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img alt="PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img alt="AWS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+ <img alt="AWS" height="40" width="50" src="https://www.svgrepo.com/show/448266/aws.svg">
+  <img alt="Oracle" height="40" width="50" src="https://www.svgrepo.com/show/303303/oracle-6-logo.svg">
   <img alt="Azure" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
 </div>
 
