@@ -1,7 +1,6 @@
 ## 👋 Olá, eu sou André Alves
 
-***Desenvolvedor Java Back-end**, com foco em **Spring Boot**, **bancos de dados relacionais** e **Cloud Computing***.  
-Perfil analítico, orientado à resolução de problemas e aprendizado contínuo.
+***Desenvolvedor Java Back-end**. Perfil analítico, orientado à resolução de problemas e aprendizado contínuo.
 
 <p align="center">
   <!-- Tecnologias -->
@@ -17,8 +16,7 @@ Perfil analítico, orientado à resolução de problemas e aprendizado contínuo
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" style="margin-right: 16px"/>
     
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" height="50" alt="Azure" style="margin-right: 16px;"/>
-    
- ---
+
 <p align="center">
   <img src="https://github.com/andrealves8/andrealves8/blob/output/github-contribution-grid-snake.svg"
        alt="Snake animation"/>
