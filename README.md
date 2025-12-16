@@ -1,6 +1,7 @@
 ## 👋 Olá, eu sou André Alves
 
-***Desenvolvedor Java Back-end***. Perfil analítico, orientado à resolução de problemas e aprendizado contínuo.
+***Desenvolvedor Java Back-end***. 
+Perfil analítico, orientado à resolução de problemas e aprendizado contínuo.
 
 <p align="center">
   <!-- Tecnologias -->
